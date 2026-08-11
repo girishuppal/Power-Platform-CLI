@@ -6,7 +6,7 @@
 
 #### Three ways to setup Power Platform CLI
 
-1. Install through VS Code <br/><br/> https://learn.microsoft.com/en-us/power-platform/developer/howto/install-vs-code-extension
-2. Install with .net tool <br/><br/> https://learn.microsoft.com/en-us/power-platform/developer/howto/install-cli-net-tool?tabs=windows
-3. Install with Windows MSI  <br/><br/> https://learn.microsoft.com/en-us/power-platform/developer/howto/install-cli-msi
+1. Install through VS Code <br/> https://learn.microsoft.com/en-us/power-platform/developer/howto/install-vs-code-extension
+2. Install with .net tool <br/> https://learn.microsoft.com/en-us/power-platform/developer/howto/install-cli-net-tool?tabs=windows
+3. Install with Windows MSI <br/> https://learn.microsoft.com/en-us/power-platform/developer/howto/install-cli-msi
 
