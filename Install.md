@@ -4,9 +4,9 @@
 List pac version and commands available to use <br/>
 `pac`
 
-Update Power Platform CLI
+Update Power Platform CLI <br/>
 `pac install latest`
 
 
-List down old installation of PAC CLI version for use
+List down old installation of PAC CLI version for use <br/>
 `pac use`
