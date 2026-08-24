@@ -18,3 +18,10 @@
 #### Upload Dataverse solution project to run against Power Apps checker service
 `pac solution check ?`
 
+#### Export Solution
+`pac solution export --path c:\YourSourceSolution.zip --name Solution-Name --managed false --include general`
+
+#### Import Solution
+`pac solution import --path c:\YourSourceSolution.zip`
+
+
