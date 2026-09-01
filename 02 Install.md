@@ -2,7 +2,7 @@
 
 
 List pac version and commands available to use <br/>
-`pac`
+`pac` OR `pac help`
 
 Update Power Platform CLI <br/>
 `pac install latest`
