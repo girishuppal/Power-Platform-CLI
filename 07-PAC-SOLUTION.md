@@ -4,37 +4,34 @@
 <img width="1742" height="834" alt="image" src="https://github.com/user-attachments/assets/8f92b404-f1a0-4fef-b087-5141cb3f8168" />
 
 
-`pac solution list`
+`pac solution list` <br/>
 List all the solution for current Dataverse environment
 
-`pac solution init --publisher-name Girish --publisher-prefix gir`
+`pac solution init --publisher-name Girish --publisher-prefix gir` <br/>
 Initialises the Dataverse solution
 
-`pac solution version --solutionPath ./src/Other --buildversion 4`
+`pac solution version --solutionPath ./src/Other --buildversion 4` <br/>
 Updates the Build version
 
-`pac solution version --solutionPath ./src/Other --revisionversion 2`
+`pac solution version --solutionPath ./src/Other --revisionversion 2` <br/>
 Updates the revision version
 
-`pac solution delete --solution-name GirishPlanner`
+`pac solution delete --solution-name GirishPlanner` <br/>
 Deletes the Dataverse solution
 
-`pac solution export --name 10JulySolution`
+`pac solution export --name 10JulySolution` <br/>
 Exports a Dataverse solution to local folder
 
-`pac solution export --name 10JulySolution --managed`
+`pac solution export --name 10JulySolution --managed` <br/>
 Exports a Dataverse managed solution to local folder
 
-`pac solution import --path ./NRLSolution_managed.zip`
+`pac solution import --path ./NRLSolution_managed.zip` <br/>
 Imports managed or unmanaged solution
 
-
-pac solution pack --zipfile NRLSol_managed.zip --folder ./NRLSolution
+pac solution pack --zipfile NRLSol_managed.zip --folder ./NRLSolution <br/>
 Packs solution
 
-pac solution pack
-
-pac solution unpack
+`pac solution unpack` <br/>
 
 
 

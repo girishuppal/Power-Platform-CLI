@@ -4,14 +4,14 @@
 
 ---
 
-`pac canvas list`
+`pac canvas list` <br/>
 List canvas app in Dataverse environment
 
-`pac canvas download --name "Cleanup Old Objects App"`
+`pac canvas download --name "Cleanup Old Objects App"` <br/>
 Download canvas app as .msapp file
 
-`pac canvas unpack --msapp "./Cleanup Old Objects App.msapp"`
+`pac canvas unpack --msapp "./Cleanup Old Objects App.msapp"` <br/>
 Unpack msapp file into underlying folder structure with backend json, xml files
 
-`pac canvas pack --sources "./Cleanup Old Objects App"`
+`pac canvas pack --sources "./Cleanup Old Objects App"` <br/>
 Creates .msapp file from underlying folder structure with backend json, xml files
