@@ -7,6 +7,9 @@
 `pac solution list` <br/>
 List all the solution for current Dataverse environment
 
+ `pac solution list --IncludeSystemSolutions` <br/>
+ List all the solution for current Dataverse environment - including system solutions
+
 `pac solution init --publisher-name Girish --publisher-prefix gir` <br/>
 Initialises the Dataverse solution
 

@@ -4,7 +4,7 @@
 
 
 ##### List Pipeline
-`pac pipeline list`
+`pac pipeline list` <br/>
 
 ##### Deploy Pipeline
-`pac pipeline deploy`
+`pac pipeline deploy` <br/>
